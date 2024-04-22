@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><NPCMessageData>
+    <NPCData>
+        <MessageHeader>
+            <LSAID>MP</LSAID>
+            <PortType>MOBILE</PortType>
+            <TransactionID>MP201504071420520012052</TransactionID> 7/23/2021 NPG Application Overview and Architecture -
+            Number Portability Gateway (NPG) - Confluence
+            camttvdap008:8080/display/NPGN/NPG+Application+Overview+and+Architecture 13/15 <MessageID>1010</MessageID>
+            <MsgCreateTimeStamp>20150407144306</MsgCreateTimeStamp>
+            <Sender>CRDB</Sender>
+        </MessageHeader>
+        <NPCMessage>
+            <PortActivatedBroadcast>
+                <NumberRangeOAFlagged>
+                    <NumberFrom>5221100011</NumberFrom>
+                    <NumberTo>5221100011</NumberTo>
+                    <OrigAssigneeFlag>Y</OrigAssigneeFlag>
+                </NumberRangeOAFlagged>
+                <NumberRangeOAFlagged>
+                    <NumberFrom>5221100022</NumberFrom>
+                    <NumberTo>5221100022</NumberTo>
+                    <OrigAssigneeFlag>N</OrigAssigneeFlag>
+                </NumberRangeOAFlagged>
+                <NumberRangeOAFlagged>
+                    <NumberFrom>5221100033</NumberFrom>
+                    <NumberTo>5221100033</NumberTo>
+                    <OrigAssigneeFlag>Y</OrigAssigneeFlag>
+                </NumberRangeOAFlagged>
+                <NumberRangeOAFlagged>
+                    <NumberFrom>5221100044</NumberFrom>
+                    <NumberTo>5221100044</NumberTo>
+                    <OrigAssigneeFlag>N</OrigAssigneeFlag>
+                </NumberRangeOAFlagged>
+                <NumberRangeOAFlagged>
+                    <NumberFrom>5221100055</NumberFrom>
+                    <NumberTo>5221100055</NumberTo>
+                    <OrigAssigneeFlag>Y</OrigAssigneeFlag>
+                </NumberRangeOAFlagged>
+                <Donor>110</Donor>
+                <Recipient>001</Recipient>
+                <Route>5301</Route>
+                <Comments>AP;MP;</Comments>
+            </PortActivatedBroadcast>
+        </NPCMessage>
+    </NPCData>
+</NPCMessageData>

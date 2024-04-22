@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="India - MNP Automation Script">
+    <test name="Notification Handling Scenarios" verbose="1" thread-count="10">
+        <classes>
+            <class name="Test.Verify_XML_Sent">
+                <methods>
+                    <include name="Verify_XML_Sent_Msg"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+  </suite>
